@@ -2,62 +2,76 @@
 
 ## 🌐 *Data Analyst | SQL Developer | Power BI & Data Visualization Specialist | Tech Blogger*
 
-Welcome to my GitHub profile! I'm a passionate **Data Analyst** and **Visualization Specialist** with a unique background in *History and International Studies*. My journey into tech is fueled by curiosity, problem-solving, and a deep interest in uncovering insights through data. From spreadsheets to SQL queries, dashboards to Python scripts—I'm committed to turning raw data into meaningful, actionable insights.
+Welcome to my GitHub profile! I'm a passionate *Data Analyst, SQL Developer, and Data Visualization Specialist* with a strong focus on transforming raw data into actionable insights that inform business strategy and decision-making. My journey began with a background in *History and International Studies*, and I've successfully transitioned into the tech world, leveraging my research and analytical strengths to drive value through data.
 
-I share my thoughts and tutorials on my tech blog **[favour1408.hashnode.dev](https://favour1408.hashnode.dev/)** — where I write about data, analytics, AI, and more.
+Beyond my technical expertise, I'm also a dedicated *Tech Blogger* who enjoys breaking down complex concepts into relatable, accessible insights for aspiring analysts and tech enthusiasts. Through my blog, **[favour1408.hashnode.dev](https://favour1408.hashnode.dev)**, I share knowledge on AI, analytics, data visualization, Excel, and the evolving role of tech in business.
 
 ---
 
 ## 🚀 *About Me*
 
-* 🎓 *Background*: Studied **History & International Studies**, now transitioning fully into **Tech & Analytics**.
-* 📊 *Data Enthusiast*: I love exploring business data, crafting stories from insights, and building interactive dashboards.
-* ✍️ *Tech Blogger*: Sharing practical tips and tutorials on [my blog](https://favour1408.hashnode.dev/).
-* 🎯 *Core Skills*: Data Cleaning, Visualization, SQL Queries, Excel Automations, Power BI Dashboards, AI Applications.
+* 🎓 *Background*: Transitioned from **History and International Studies** to **Data Analytics & Tech Writing**.
+* 📝 *Tech Blogger*: [favour1408.hashnode.dev](https://favour1408.hashnode.dev) — Sharing insights on AI, Data, Visualization & Tech.
+* 📊 *Specialization*: Data Cleaning, Visualization, SQL Querying, Dashboard Reporting, and Business Intelligence.
+* ✨ *Passionate about*: Empowering people through data, storytelling with dashboards, and continuous learning in AI and analytics.
 
 ---
 
-## 🔧 *Tech Stack & Skills*
+## 🔥 *Key Strengths & Specializations*
+
+✅ *Data Analysis*: Excel, Power Query, Pivot Tables, Advanced Formulas.
+✅ *Data Visualization*: Power BI dashboards, chart storytelling, insights generation.
+✅ *SQL Development*: MySQL, PostgreSQL, query optimization, data extraction.
+✅ *Soft Skills*: Critical thinking, attention to detail, public speaking, storytelling with data.
+✅ *Tech Writing*: Writing effective and accessible blog content on data and technology trends.
+
+---
+
+## 🛠️ *Tech Stack & Skills*
 
 ### *Data Analysis & Visualization*
 
-### *Databases & Query Languages*
+* Microsoft Excel
+* Google Sheets
+* Power Query
+* Pivot Tables
+* Power BI
+* PowerPoint
 
-### *Other Tools & Tech*
+### *Databases & Querying*
+
+* MySQL
+* PostgreSQL
+
+### *Languages*
+
+* SQL
+* Python
+
+### *Tools & AI*
+
+* ChatGPT
+* AI Productivity Tools
 
 ---
 
-## 🏅 *Certifications by Animam Favour*
+## 💡 *Key Projects*
 
-* 🎓 **Data Visualization: Empowering Business with Effective Insights** *(Job Simulation - Forage)*
-  [View Credential](https://www.theforage.com/simulations/data-visualisation)
-* 📜 **Microsoft Excel for Beginners** — UniAthena
-* 📜 **AI Tools for Productivity** — \[Pending Link]
-* 📜 **Power BI Essential Training** — \[Pending Link]
+### 📊 *Bank Churn Dashboard*
 
----
+*Tools: Excel, Power Query, Pivot Tables, Charts*
 
-## 💼 *Key Projects*
+### 📈 *Global Sales Insights with Power BI*
 
-### 🛍️ *Global Electronics Retailer Analysis*
+*Tools: Excel, DAX, Power BI, Data Modeling, Slicers*
 
-* Tools: Excel, Power BI, Power Query, Pivot Table, DAX, Bookmarks
+### 🧾 *Fraud Detection Analysis*
 
-### 🚆 *UK Train Rides Analysis*
+*Tools: Python, Pandas, Matplotlib, Seaborn*
 
-* Tools: Excel, Power BI, Slicers, Pivot Chart
+### 📦 *Retail Sales Summary Report*
 
-### 🎬 *Netflix Movies & TV Shows Analysis*
-
-* Tools: Excel, MySQL
-
-### 🚔 *Motor Vehicle Theft Dashboard*
-
-* Tools: Excel, SQL, Power BI
-
-### ✈️ *Airline Passenger Satisfaction Survey*
-
-* Tools: Excel, Pivot Charts, Dashboards
+*Tools: Power BI, DAX, Interactive Dashboards*
 
 ---
 
@@ -65,34 +79,29 @@ I share my thoughts and tutorials on my tech blog **[favour1408.hashnode.dev](h
 
 * [The Rise of AI-Augmented Analytics: How Data Analysts Can Future-Proof Their Skills](https://favour1408.hashnode.dev/the-rise-of-ai-augmented-analytics-how-data-analysts-can-future-proof-their-skills)
 
-➡️ [Read More on my Blog](https://favour1408.hashnode.dev/)
+➡️ [Explore More Articles](https://favour1408.hashnode.dev)
 
 ---
 
-## 🤝 *Let's Connect!*
+## 🏅 *Certifications*
 
-* 📧 *Email*: [favouranimam1@gmail.com](mailto:favouranimam1@gmail.com)
-* 💼 *LinkedIn*: [linkedin.com/in/animamfavour](https://linkedin.com/in/animamfavour)
-* 📝 *Blog*: [favour1408.hashnode.dev](https://favour1408.hashnode.dev/)
+* ✅ **Data Visualisation: Empowering Business with Effective Insights** – Forage Job Simulation
+* 📘 **Certified Data Analytics Foundations** – Uni Athena
 
 ---
 
-## 🌟 *Let’s turn data into decisions and insights that drive action!*
+## 🤝 *Let’s Connect!*
 
-*#DataAnalytics #SQL #PowerBI #Excel #Python #TechBlogging #AI #StorytellingWithData*
+I'm always open to collaborating on data projects, writing opportunities, or mentoring beginners in analytics. Let's grow together in this tech journey!
 
+📢 **Email**: [favouranimam1@gmail.com](mailto:favouranimam1@gmail.com)
+🌐 **LinkedIn**: [https://linkedin.com/in/animamfavour](https://linkedin.com/in/animamfavour)
+✍️ **Blog**: [https://favour1408.hashnode.dev](https://favour1408.hashnode.dev)
 
-<!--
-**favouranimam/favouranimam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⭐ *Let's turn raw data into real stories that drive results!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*#DataAnalysis #PowerBI #SQL #Python #AI #DataVisualization #TechWriting #WomenInTech*
+
+*© 2025 Animam Favour*
