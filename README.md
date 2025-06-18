@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Data Analyst** and **Visualization Specialist** with a unique background in *History and International Studies*. My journey into tech is fueled by curiosity, problem-solving, and a deep interest in uncovering insights through data. From spreadsheets to SQL queries, dashboards to Python scripts—I'm committed to turning raw data into meaningful, actionable insights.
 
-I share my thoughts and tutorials on my tech blog\:https: **[favour1408.hashnode.dev](https://favour1408.hashnode.dev/)** — where I write about data, analytics, AI, and more.
+I share my thoughts and tutorials on my tech blog **[favour1408.hashnode.dev](https://favour1408.hashnode.dev/)** — where I write about data, analytics, AI, and more.
 
 ---
 
